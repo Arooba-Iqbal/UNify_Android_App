@@ -74,9 +74,9 @@ The backend serves as the API provider for the Android app. It includes:
 ## Contributors
 
 - **Arooba Iqbal** ([Arooba-Iqbal](https://github.com/Arooba-Iqbal))
-= **Muhammad Waleed** ([MuhammadWaleed-Animations](https://github.com/MuhammadWaleed-Animations))
-- **Armeen Fatima** ([Armeeeen](https://github.com/Armeeeen))
+- **Muhammad Waleed** ([MuhammadWaleed-Animations](https://github.com/MuhammadWaleed-Animations))
 - **Muiz ul Islam** ([muizkhan2802](https://github.com/muizkhan2802))
+- ***Armeen Fatima** ([Armeeeen](https://github.com/Armeeeen))
 
 Developed at the **National University of Computer and Emerging Sciences**, Department of Computer Science, Lahore, Pakistan.
 
