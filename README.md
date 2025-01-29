@@ -69,15 +69,14 @@ The backend serves as the API provider for the Android app. It includes:
 - Post management (create, update, delete, report)
 - Admin and blocked user management APIs.
 
-Refer to the detailed [Backend Documentation](https://github.com/MuhammadWaleed-Animations/UnifyBackend) for API endpoints and usage.
 
 ---
 
 ## Contributors
 
-- **Muhammad Waleed** ([MuhammadWaleed-Animations](https://github.com/MuhammadWaleed-Animations))
+  **Arooba Iqbal** ([Arooba-Iqbal](https://github.com/Arooba-Iqbal))
+  **Muhammad Waleed** ([MuhammadWaleed-Animations](https://github.com/MuhammadWaleed-Animations))
 - **Armeen Fatima** ([Armeeeen](https://github.com/Armeeeen))
-- **Arooba Iqbal** ([Arooba-Iqbal](https://github.com/Arooba-Iqbal))
 - **Muiz ul Islam** ([muizkhan2802](https://github.com/muizkhan2802))
 
 Developed at the **National University of Computer and Emerging Sciences**, Department of Computer Science, Lahore, Pakistan.
