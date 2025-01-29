@@ -48,7 +48,6 @@
 - **Languages:** JavaScript
 - **Frameworks:** Express.js
 - **Database:** MongoDB
-- **API Documentation:** Comprehensive [API Reference](https://github.com/MuhammadWaleed-Animations/UnifyBackend)
 
 ---
 
